@@ -66,7 +66,7 @@ I like to use both the plain query building and the ORMs working with *databases
 
 ## 📊 GitHub stats 📊
 
-![Total stats](https://github-readme-stats.vercel.app/api?username=jktujq&show_icons=true&theme=dracula)
+![Total stats](https://github-readme-stats.vercel.app/api?username=jktujq&show_icons=true&theme=dracula&hide_border=true&no-bg=true)
 
 <br>
 
