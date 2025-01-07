@@ -55,7 +55,7 @@ And in the *app development*, there is **[Qt](https://www.qt.io/product/framewor
 
 Games were always my passion; and once I learned programming - I could develop those, expressing my creativity however I want.
 
-I enjoyed using **[SDL2](https://www.libsdl.org/)** library and the **[Pygame](https://www.pygame.org/)** library derived from it. I am also developing **[GGEngine](https://www.pygame.org/)** - 2d game engine built on top of **SDL2** that tries to implement Unity-like design.
+I enjoyed using **[SDL2](https://www.libsdl.org/)** library and the **[Pygame](https://www.pygame.org/)** library derived from it. I am also developing **[GGEngine](https://github.com/JktuJQ/GGEngine)** - 2d game engine built on top of **SDL2** that tries to implement Unity-like design.
 
 Mentioning big game engines, I would say that **[Unity](https://unity.com/)** is my favorite, but I look forward to learn **[Unreal Engine](https://www.unrealengine.com/en-US)** some day.
 
