@@ -44,7 +44,7 @@ Speaking of *web developing*, I am familiar with:
 
 - **Python's** **[Flask](https://flask.palletsprojects.com/en/stable/)** and **[Django](https://www.djangoproject.com/)** frameworks; **[Telegram](https://python-telegram-bot.org/)** and **[Discord](https://discordpy.readthedocs.io/en/stable/)** APIs
 
-- **Rust's** **[Rocket](https://rocket.rs/)**, **[Axum](https://github.com/tokio-rs/axum)** **[Yew](https://yew.rs/)**, **[Tokio](https://tokio.rs/)** frameworks;
+- **Rust's** **[Rocket](https://rocket.rs/)**, **[Axum](https://github.com/tokio-rs/axum)**, **[Yew](https://yew.rs/)**, **[Tokio](https://tokio.rs/)** frameworks;
 **[Serenity](https://github.com/serenity-rs/serenity)**, **[Poise](https://github.com/serenity-rs/poise)** and **[Songbird](https://github.com/serenity-rs/songbird)** frameworks for Discord API
 
 - **Haskell's** **[Servant](https://www.servant.dev/)**
