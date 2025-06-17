@@ -8,7 +8,7 @@ Currently, I am a student majoring in **"Applied mathematics and Computer Scienc
 As my future degree suggests, I do really like maths and I enjoy applying it to a real-world problems.
 Even though I am not exposed to much of those in the university,
 I try not to limit myself by home assignments projects andto participate in hackatons,
-program my own ambitious projects andcontribute in open-source libraries and frameworks.
+program my own ambitious projects and contribute in open-source libraries and frameworks.
 
 I see **[my GitHub profile](https://github.com/JktuJQ)** as a great way to track my progress and (possibly) promote my skills to employers.
 
