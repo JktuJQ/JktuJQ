@@ -69,4 +69,4 @@ I like to use both the plain query building and the ORMs working with *databases
 
 ![Total stats](https://github-readme-stats.vercel.app/api?username=jktujq&show_icons=true&theme=dracula&hide_border=true&no-bg=true)
 
-![Top langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jktujq&show_icons=true&theme=dracula&hide_border=true&no-bg=true&no-frame=true&langs_count=7&hide=GLSL,JupiterNotebook)
+![Top langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jktujq&show_icons=true&theme=dracula&hide_border=true&no-bg=true&no-frame=true&langs_count=7&hide=GLSL,Jupyter%20Notebook)
