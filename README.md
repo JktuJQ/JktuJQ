@@ -4,6 +4,7 @@
 ## 👨‍💻 About me 👨‍💻
 
 Currently, I am a student majoring in **"Applied mathematics and Computer Science"**.
+I am also doing an internship at [Yandex](https://yandex.ru/company) as a ML-engineer, developing Recommender Systems for [Yandex.Music](https://music.yandex.ru/).
 
 As my future degree suggests, I do really like maths and I enjoy applying it to a real-world problems.
 Even though I am not exposed to much of those in the university,
@@ -25,7 +26,6 @@ Most of my **[repositories](https://github.com/JktuJQ?tab=repositories)** are th
 
 Feel free to star projects that you like, and remember - any contributions are welcome!
 
-
 ## 💻 Technologies 💻
 
 ### Machine learning & Neural Networks
@@ -33,8 +33,10 @@ Feel free to star projects that you like, and remember - any contributions are w
 Once again, as my degree suggests,
 *machine learning* and *neural networks* are the primary targets of my research.
 
-Of course I use **[Python](https://www.python.org/)** paired with **[PyTorch](https://pytorch.org/)** and **[scikit-learn](https://scikit-learn.org/stable/)**,
-but I also like to use **[Haskell](https://www.haskell.org/)** to write safe, type-checked mathematical models from scratch (**[Synapse](https://github.com/JktuJQ/Synapse)** is my attempt at doing that).
+My main speciality is in **Recommender Systems**, but
+I am also well-versed in the **Computer Vision** and **Classic ML**.
+**NLP** and **Deep Learning (theory)** are areas I'm not very knowledgeable about;
+I hope that I would improve in those spheres.
 
 ### Web and app developing
 
@@ -47,9 +49,7 @@ Speaking of *web developing*, I am familiar with:
 - **Rust's** **[Rocket](https://rocket.rs/)**, **[Axum](https://github.com/tokio-rs/axum)**, **[Yew](https://yew.rs/)**, **[Tokio](https://tokio.rs/)** frameworks;
 **[Serenity](https://github.com/serenity-rs/serenity)**, **[Poise](https://github.com/serenity-rs/poise)** and **[Songbird](https://github.com/serenity-rs/songbird)** frameworks for Discord API
 
-- **Haskell's** **[Servant](https://www.servant.dev/)**
-
-And in the *app development*, there is **[Qt](https://www.qt.io/product/framework)** (although I haven't used it in a while).
+In the *app development*, there is cross-language **[Qt](https://www.qt.io/product/framework)**.
 
 ### Game developing and graphics
 
@@ -59,11 +59,13 @@ I enjoyed using **[SDL2](https://www.libsdl.org/)** library and the **[Pygame](h
 
 I am also developing **[GGEngine](https://github.com/JktuJQ/GGEngine)** - 2d game engine built on top of **SDL2** that tries to implement Unity-like design.
 
-Mentioning big game engines, I would say that **[Unity](https://unity.com/)** is my favorite, but I look forward to learn **[Unreal Engine](https://www.unrealengine.com/en-US)** some day.
-
 ### Databases
 
-I like to use both the plain query building and the ORMs working with *databases*, and those include **[SQLAlchemy](https://www.sqlalchemy.org/)** for **Python** and **[SQLx](https://docs.rs/sqlx/latest/sqlx/)** for **Rust**.
+I am the most familiar with classic relational *databases*, such as [SQLite](https://sqlite.org/), [PostgreSQL](https://www.postgresql.org/).
+Hope that I would work with some fancy Key-Value and NoSQL databases sometime.
+
+As for using those *databases*, I like to use both the plain query building and the ORMs,
+and those include **[SQLAlchemy](https://www.sqlalchemy.org/)** for **Python** and **[SQLx](https://docs.rs/sqlx/latest/sqlx/)** for **Rust**.
 
 ## 📊 GitHub stats 📊
 
