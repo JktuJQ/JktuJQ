@@ -1,7 +1,10 @@
-<h1 align=center>👋 Hi there! 👋</h1>
-<p align="center">I'm Oleg, a tech enthusiast with never-ending passion to learn!</p>
+<div align="center">
 
-## 👨‍💻 About Me
+# 👋 Hi there! 👋
+
+I'm Oleg, a tech enthusiast with never-ending passion to learn!
+
+## 👨‍💻 About Me 👨‍💻
 
 I am a student majoring in **Applied Mathematics and Computer Science** at *NRNU MEPhI*.  
 
@@ -11,13 +14,9 @@ developing large‑scale applications, and contributing to open‑source.
 
 I have recently completed a **Machine Learning Engineer internship** at [Yandex](https://yandex.ru/company),
 where I worked on **Recommender Systems** for [Yandex.Music](https://music.yandex.ru/). 
-That experience gave me a solid taste of production‑grade ML, large‑scale data pipelines, and teamwork in a fast‑paced environment.
+That experience gave me a solid taste of production‑grade ML, large‑scale data pipelines, and teamwork.
 
 Now, I am actively looking for new challenges - whether in industry or research - to further hone my skills.
-
-**My socials**:
-- Email: <a href="mailto:odmamontov@gmail.com">odmamontov@gmail.com</a>
-- Telegram: <a href="https://t.me/jktujq">@jktujq</a>
 
 ## 🚀 My projects 🚀
 
@@ -29,66 +28,66 @@ which are written in different programming languages and for different purposes.
 
 To navigate around my projects, you can check out my **[stars](https://github.com/JktuJQ?tab=stars)**,
 which split repositories in several groups, or my pinned repositories.
-Most of my **[repositories](https://github.com/JktuJQ?tab=repositories)** are thoroughly documented in
-'README's, descriptions and in code, so it won't be hard for you to find whatever you want.
+Most of my **[repositories](https://github.com/JktuJQ?tab=repositories)** are thoroughly documented in 'README's,
+descriptions and in code, so it won't be hard to find what you want.
 
 Feel free to star projects that you like, and remember - any contributions are welcome!
 
-![Top langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jktujq&show_icons=true&theme=dracula&hide_border=true&no-bg=true&no-frame=true&langs_count=7&hide=GLSL,Jupyter%20Notebook)
-
 ## 💻 Technologies 💻
 
-### Machine learning & Neural Networks
+### Languages
 
-Once again, as my degree suggests,
-*machine learning* and *neural networks* are the primary targets of my research.
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa)
+![Nix](https://img.shields.io/badge/Nix-1e1e2e?style=for-the-badge&logo=nixos&logoColor=89b4fa)
+![Haskell](https://img.shields.io/badge/Haskell-1e1e2e?style=for-the-badge&logo=haskell&logoColor=cba6f7)
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387)
+![Lua](https://img.shields.io/badge/Lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=89b4fa)
+![C++](https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=f38ba8)
 
-My primary focus is in **Recommender Systems**, especially on personalized user2item recommendation,
-with a strong interest in sequential and context-aware models.
-I'm also exploring the integration of LLMs for generative and agentic recommendation paradigms.
+### Frameworks & Libraries
 
-I am also well-versed in the **Computer Vision** and **Classic ML**.
-**NLP** and **Deep Learning (theory)** are the areas I'm hoping to get more experience in.
+![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=89b4fa)
+![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=cba6f7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=fab387)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=fab387)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e1e2e?style=for-the-badge&logo=opencv&logoColor=89b4fa)
 
-### Web and app development
+### Web & App Development
 
-I like to develop interactive interfaces to my applications.
+![Flask](https://img.shields.io/badge/Flask-1e1e2e?style=for-the-badge&logo=flask&logoColor=cdd6f4)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=94e2d5)
+![Django](https://img.shields.io/badge/Django-1e1e2e?style=for-the-badge&logo=django&logoColor=a6e3a1)
+![Axum](https://img.shields.io/badge/Axum-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387)
+![Rocket](https://img.shields.io/badge/Rocket-1e1e2e?style=for-the-badge&logo=rocket&logoColor=f38ba8)
+![Servant](https://img.shields.io/badge/Servant-1e1e2e?style=for-the-badge&logo=haskell&logoColor=cba6f7)
+![Qt](https://img.shields.io/badge/Qt-1e1e2e?style=for-the-badge&logo=qt&logoColor=a6e3a1)
 
-Speaking of *web development*, I am familiar with:
+### Game Development
 
-- **Python's** **[Flask](https://flask.palletsprojects.com/en/stable/)** and **[Django](https://www.djangoproject.com/)** frameworks; **[Telegram](https://python-telegram-bot.org/)** and **[Discord](https://discordpy.readthedocs.io/en/stable/)** APIs
-
-- **Rust's** **[Rocket](https://rocket.rs/)**, **[Axum](https://github.com/tokio-rs/axum)**, **[Yew](https://yew.rs/)**, **[Tokio](https://tokio.rs/)** frameworks;
-**[Serenity](https://github.com/serenity-rs/serenity)**, **[Poise](https://github.com/serenity-rs/poise)** and **[Songbird](https://github.com/serenity-rs/songbird)** frameworks for Discord API
-
-In the *app development*, there is cross-language **[Qt](https://www.qt.io/product/framework)**.
-
-### Game development and graphics
-
-Games were always my passion; and once I learned programming - I could develop those, expressing my creativity however I want.
-
-I enjoy using **[SDL2](https://www.libsdl.org/)** library and the **[Pygame](https://www.pygame.org/)** library derived from it.
-
-I am also developing **[GGEngine](https://github.com/JktuJQ/GGEngine)** - 2d game engine built on top of **SDL2** that tries to implement Unity-like design.
+![Pygame](https://img.shields.io/badge/Pygame-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7)
+![Unity](https://img.shields.io/badge/Unity-1e1e2e?style=for-the-badge&logo=unity&logoColor=cdd6f4)
 
 ### Databases
 
-I am the most familiar with classic relational *databases*, such as [SQLite](https://sqlite.org/), [PostgreSQL](https://www.postgresql.org/).
-Hope that I would work with some fancy Key-Value and NoSQL databases sometime.
+![SQLite](https://img.shields.io/badge/SQLite-1e1e2e?style=for-the-badge&logo=sqlite&logoColor=89b4fa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa)
+![Neo4j](https://img.shields.io/badge/Neo4j-1e1e2e?style=for-the-badge&logo=neo4j&logoColor=89b4fa)
+![Qdrant](https://img.shields.io/badge/Qdrant-1e1e2e?style=for-the-badge&logo=qdrant&logoColor=f38ba8)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-1e1e2e?style=for-the-badge&logo=clickhouse&logoColor=f9e2af)
 
-As for using those *databases*, I like to use both the plain query building and the ORMs,
-and those include **[SQLAlchemy](https://www.sqlalchemy.org/)** for **Python** and **[SQLx](https://docs.rs/sqlx/latest/sqlx/)** for **Rust**.
+### Development Environment & Tools
 
-### 🐧 Linux & Development Environment
+![NixOS](https://img.shields.io/badge/NixOS-1e1e2e?style=for-the-badge&logo=nixos&logoColor=89b4fa)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
+![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4)
+![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=89b4fa)
 
-I'm a passionate **Linux** enthusiast - I've experimented with various distributions,
-including **[Arch Linux](https://archlinux.org/)** and **[NixOS](https://nixos.org/)**,
-and I truly appreciate the flexibility, customization and reproducibility they offer.
+## 📋 Stats 📋
 
-I enjoy **ricing** — customising my desktop environment to be both visually appealing and highly functional.
-I've worked with tiling window managers like **[i3](https://i3wm.org/)** and **[Hyprland](https://hypr.land/)**,
-and I use **[Neovim](https://neovim.io/)** as my primary editor.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JktuJQ&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9" alt="profile details" /><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JktuJQ&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JktuJQ&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&exclude=GLSL,Jupyter%20Notebook,HTML,CSS" alt="repos per language" /><br>
 
-To keep my development environments consistent across machines,
-I rely on the **[Nix](https://nixos.org/nix/)** package manager (and the Nix language)
-to declaratively define my entire system configuration and toolchains.
+</div>
